@@ -1,0 +1,37 @@
+WIPRO LIMITED — ANNUAL REPORT FY2024
+Management Discussion and Analysis
+
+COMPANY OVERVIEW
+Wipro Limited is a leading global information technology, consulting and business process services company. For FY2024, Wipro reported revenues of ₹89,280 crore from its IT Services segment, a marginal decline of 1.3% in rupee terms and approximately 4.4% in constant currency. This marked one of the more challenging years for Wipro, reflecting significant softness in its key verticals.
+
+OPERATING PERFORMANCE
+The operating margin for FY2024 was 16.8%, an improvement from 16.3% in FY2023. The margin recovery was driven by project pyramid optimization, selective headcount rationalization, and pricing improvements on renewals. The CEO Thierry Delaporte, who resigned in April 2024, had initiated a multi-year margin improvement journey targeting the 17–17.5% band. Incoming CEO Srinivas Pallia re-committed to the margin expansion path.
+
+Net profit for FY2024 stood at ₹11,127 crore, flat versus FY2023, as revenue softness offset operational improvements.
+
+STRATEGIC PRIORITIES
+1. AI360 Strategy: Wipro launched its AI360 strategy, embedding artificial intelligence across its service delivery, internal operations, and client solutions. The company partnered with major hyperscalers (AWS, Google Cloud, Microsoft Azure) to build AI-powered industry solutions.
+
+2. Focus Verticals: Wipro reorganized into four strategic market units — Americas 1, Americas 2, Europe and Asia Pacific — to drive greater client proximity and accountability. The company identified BFSI, Consumer, Energy-Manufacturing and Technology as priority verticals for growth investment.
+
+3. Acquisitions: Wipro completed acquisitions of Aggne (insurance technology), Capco (financial services consulting), and Rizing (SAP services) to strengthen domain capabilities. Integration of these acquisitions weighed on margins in the near term.
+
+4. Leadership Transition: The change of CEO in April 2024, with Srinivas Pallia succeeding Thierry Delaporte, introduced some uncertainty but also brought renewed focus on organic growth and operational discipline.
+
+HEADCOUNT AND TALENT
+Wipro's headcount as of March 2024 was 234,054, a significant reduction from 257,002 in FY2023 as the company rationalized its workforce following reduced business volumes. Attrition improved to 14.1% from 23.3% in FY2023. The company paused fresher hiring for most of FY2024, focusing on redeployment of existing talent.
+
+SEGMENT PERFORMANCE
+Americas contributed approximately 60% of IT Services revenue, Europe 26%, and Asia Pacific 14%. The Technology vertical (Wipro's largest) declined the most, as hyperscaler clients cut back on services spending. The Consumer and BFSI verticals showed relative resilience.
+
+DEAL WINS
+Total contract value of large deal wins was $5.1 billion for FY2024, broadly in line with FY2023. While the headline TCV was steady, the company acknowledged that deal ramp-up timelines were longer than historical norms, given client caution on new project initiations.
+
+OUTLOOK
+Management guided for IT Services revenue of $2,600–2,657 million for Q1 FY2025, implying continued softness. The company expects the second half of FY2025 to show improvement as macro conditions stabilize and existing deal ramps accelerate.
+
+DIVIDEND AND CAPITAL ALLOCATION
+The Board recommended a final dividend of ₹1 per share. Wipro also completed a buyback of ₹12,000 crore at ₹445 per share during the year, returning significant capital to shareholders.
+
+RISKS
+Key risks include continued revenue softness in technology and communications verticals, integration risk from acquisitions, leadership transition risk, and currency headwinds given significant US dollar revenue exposure. The company has a natural hedge through its dollar-denominated costs (approximately 30% of total costs).

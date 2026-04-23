@@ -1,0 +1,37 @@
+TATA CONSULTANCY SERVICES LIMITED — ANNUAL REPORT FY2024
+Management Discussion and Analysis
+
+COMPANY OVERVIEW
+Tata Consultancy Services (TCS) is the world's second-largest IT services company by market capitalization. For FY2024, TCS reported revenues of ₹240,893 crore, reflecting 6.8% growth in rupee terms and 4.1% in constant currency, against a backdrop of slowing discretionary spending across its key markets.
+
+OPERATING PERFORMANCE
+TCS delivered an operating margin of 24.6% in FY2024, an improvement from 24.1% in FY2023. The margin improvement was driven by three factors: disciplined subcontractor cost management, operational leverage from pyramid optimization (increasing the proportion of junior employees), and benefits from automation of internal processes using the company's proprietary AI platform. The management reiterated its aspiration to reach the 26–28% margin band over the medium term.
+
+Net profit for FY2024 was ₹45,908 crore, up 8.9% from ₹42,147 crore in FY2023.
+
+STRATEGIC PRIORITIES
+1. AI and Cognitive Business Operations: TCS launched WisdomNext, its enterprise AI platform, integrating large language models with proprietary industry datasets. The platform is deployed across 300+ client engagements.
+
+2. Talent and Reskilling: TCS trained over 250,000 employees on AI, machine learning, and cloud technologies through its internal Xcelerate program. The company believes reskilling at scale is a key differentiator against pure-play AI vendors.
+
+3. BSNL Deal Execution: TCS continued execution of its landmark ₹15,000 crore deal with BSNL to build a 4G/5G network across India, contributing meaningfully to domestic revenue growth.
+
+4. Sustainability: TCS committed to net-zero carbon emissions by 2030, achieving carbon neutrality in FY2024 through renewable energy procurement and efficiency improvements.
+
+HEADCOUNT AND TALENT
+TCS headcount as of March 2024 was 601,546, a net reduction of approximately 13,249 from FY2023. Attrition improved to 12.5%, its lowest in three years, reflecting a stabilizing talent market. Fresher hiring remained selective, with 40,000 campus hires onboarded in FY2024 versus 110,000 in FY2022.
+
+SEGMENT PERFORMANCE
+BFSI (Banking, Financial Services and Insurance) contributed 30.7% of revenues. Manufacturing contributed 10.9%, Retail and Consumer Business 15.6%, and Technology & Services 8.2%. The BFSI vertical saw improved momentum in the second half of FY2024 as US banking clients resumed project spend following a cautious first half.
+
+DEAL WINS
+TCS reported total contract value (TCV) of deal wins at $42.7 billion for FY2024, the highest in company history. Notably, the proportion of deals with an AI/automation component rose to 65%, up from 38% in FY2023, reflecting increased client appetite for AI-augmented outsourcing.
+
+OUTLOOK
+Management remained confident in long-term demand drivers including cloud migration, AI adoption, and regulatory-driven technology investments in BFSI. Near-term guidance was not formally provided, consistent with the company's policy. Analysts expect 6–8% constant currency growth for FY2025.
+
+CAPITAL ALLOCATION
+The Board approved a final dividend of ₹28 per share, with total dividends for FY2024 amounting to ₹73 per share. The company maintained its consistent capital return policy, returning over 80% of free cash flow to shareholders.
+
+RISKS
+Key risks include macro uncertainty in the US and Europe, client consolidation of vendor panels, and the potential for generative AI to reduce labour-intensive service volumes over the medium term. TCS management views AI as a demand catalyst rather than a threat, citing early evidence from its WisdomNext deployments.
