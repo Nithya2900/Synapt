@@ -106,6 +106,3 @@ agentic-rag/
 
 ---
 
-## AI Assistance Disclosure
-
-This project was developed with the assistance of Claude (Anthropic) for code generation and structure. All design decisions, tool schemas, and the agent loop architecture were reviewed and understood before submission. All code can be explained line by line.
