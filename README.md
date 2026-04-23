@@ -3,8 +3,6 @@
 A small LLM agent that answers questions over a mixed corpus:  
 annual reports (unstructured) + financial CSV (structured) + live web search.
 
-Built for the CIT Internship Assignment — AI & Data Science Track, Problem 2.
-
 ---
 
 ## What It Does
@@ -41,7 +39,7 @@ cp .env.example .env
 #   TAVILY_API_KEY=your_key_here  (optional — mock results used without it)
 ```
 
-Get your Anthropic key at: https://console.anthropic.com  
+Get your gemini key at: https://aistudio.google.com
 Get your Tavily key at: https://tavily.com (free tier, 1000 searches/month)
 
 ### 3. Build index and database
